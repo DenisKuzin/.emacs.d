@@ -1,0 +1,8 @@
+# Location-dependent files, don't want to track
+ac-comphist.dat
+eproject.lst
+auto-save-list
+
+# Emacs auto-save, swap etc... files
+*~
+\#*#
