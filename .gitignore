@@ -2,6 +2,7 @@
 ac-comphist.dat
 eproject.lst
 auto-save-list
+elpa
 
 # Emacs auto-save, swap etc... files
 *~
